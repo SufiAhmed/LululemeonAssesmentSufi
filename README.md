@@ -13,3 +13,8 @@ This is a project that utilzies frameworks like coreData using SwiftUI. It's app
 # Build Tools & Version
 - Xcode Version 14
 - Swift 5, SwiftUI, UIKit, Foundation, CoreData
+
+
+![Simulator Screen Shot - iPhone 11 - 2023-05-10 at 16 37 55](https://github.com/SufiAhmed/LululemeonAssesmentSufi/assets/33297723/60776b25-18a2-4ef7-bc6d-32eb195660a3)
+![Simulator Screen Shot - iPhone 11 - 2023-05-10 at 16 38 02](https://github.com/SufiAhmed/LululemeonAssesmentSufi/assets/33297723/e2966370-938b-432a-90b5-abed84949f35)
+![Simulator Screen Shot - iPhone 11 - 2023-05-10 at 16 38 24](https://github.com/SufiAhmed/LululemeonAssesmentSufi/assets/33297723/e345ad3c-5ac2-4e8b-b1a4-22eb5bfb2737)
